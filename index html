@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href=style.css>
+        <title>Facebook Log In</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <img src=file:///storage/emulated/0/images2.jpeg
+                height="50"
+                weight="200">
+                <button class="sign-btn">Sign Up
+                </button>
+                <div class="box">
+                <h5>Log in to Facebook</h5>
+                 <input type="text" class="txt-maill" 
+                 placeholder="Email Address or phone number">
+                 <input type="text" class="txt-pass" 
+                 placeholder="password">
+                 <input type="button" class="txt-btn" value="Log in">
+                 <div class="box-links">
+                 <a href="#">Forgotten account?</a>
+                 <a href="#">Sign up for Facebook</a>
+                     
+                 </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
